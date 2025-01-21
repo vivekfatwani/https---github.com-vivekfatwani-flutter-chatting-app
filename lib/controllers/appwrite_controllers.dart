@@ -16,16 +16,16 @@ import 'package:http/http.dart' as http;
 
 Client client = Client()
     .setEndpoint('https://cloud.appwrite.io/v1')
-    .setProject('662e8e5c002f2d77a17c')
+    .setProject('6784ef080013e6bffbcd')
     .setSelfSigned(
         status: true); // For self signed certificates, only use for development
 
-const String db = "662e8faa0023aee32aa2";
-const String userCollection = "662e8fb6000c22d22075";
+const String db = "6784f0db0019f0b0a9c3";
+const String userCollection = "6784f0ee001cce0cc941";
 const String chatCollection = "663005fa00219227b219";
 const String groupCollection = "66faffc6003b2312a584";
 const String groupMsgCollection = "66fb00c800016ed39134";
-const String storageBucket = "662faabe001a20bb87c6";
+const String storageBucket = "6787f279001ee44169f7";
 
 Account account = Account(client);
 final Databases databases = Databases(client);
