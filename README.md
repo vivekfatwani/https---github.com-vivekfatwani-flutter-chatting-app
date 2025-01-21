@@ -14,15 +14,6 @@ this is the source code for building a realtime chat application in flutter usin
             <h2><a href="https://youtu.be/zZzgot4OhKM">📽 Part 2: Group Chat Integration</a></h2>
         </div>
     </div>
-
-
-
-## 🌏 Important Links
-- [Push Notification Cloud Function Template](https://github.com/Snehasis4321/appwrite-cloud-node-fcm-push-template) - contains the template i used in cloud functions.
-- [Sample Push Notification Flutter Firebase](https://github.com/Snehasis4321/sample_flutter_firebase_notifications_tutorial/blob/main/lib/controllers/notification_service.dart) - contains the code that i picked for pushing notification on device.
-- [Appwrite Cloud](https://cloud.appwrite.io/) - use this for backend database
-- [Appwrite Realtime Docs](https://appwrite.io/docs/apis/realtime) - use this for reading the documentation for realtime.
-
 ## ⚙ Tech Stack -
 - Flutter
 - Appwrite Cloud
@@ -52,5 +43,5 @@ this is the source code for building a realtime chat application in flutter usin
 - Appwrite Storage Bucket
 
 ## 👨‍💻 Author -
-- [Snehasis4321](https://github.com/Snehasis4321)
+- [Vivek Fatwani]((https://github.com/))
 "# https---github.com-vivekfatwani-flutter-chatting-app" 
