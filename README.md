@@ -5,15 +5,7 @@
 this is the source code for building a realtime chat application in flutter using appwrite.
 
 <div class="images" style="display: flex; gap: 8px;">
-        <div class="part1" style="width: 50%;">
-            <img src="https://github.com/user-attachments/assets/6e29b78c-7038-4f56-9b6a-89811c670b40" style="object-fit: cover; width: 100%;"  alt="Realtime Chat App"></img>
-            <h2><a href="https://youtu.be/HPlPB176csA">📽 Part 1: Realtime Chat App</a></h2>
-        </div>
-        <div class="part2" style="width: 50%;">
-            <img src="https://github.com/user-attachments/assets/25b80b12-bebc-4c05-8e5e-2b3706e1423b" style="object-fit: cover; width: 100%;" alt="Group Chat Integration"></img>
-            <h2><a href="https://youtu.be/zZzgot4OhKM">📽 Part 2: Group Chat Integration</a></h2>
-        </div>
-    </div>
+       
 ## ⚙ Tech Stack -
 - Flutter
 - Appwrite Cloud
